@@ -255,4 +255,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-**Built with ❤️ for communities everywhere. Making financial literacy accessible, engaging, and sustainable.**
+**Built with  for communities everywhere. Making financial literacy accessible, engaging, and sustainable.**
